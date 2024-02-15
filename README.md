@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/harsha-marapatla-7a8b462a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com//" target="_blank">
+<a href="[https://www.instagram.com//](https://www.instagram.com/j_a_c_k_____h_a_r_s_h_a?igsh=a29jam13ZWoyMmti)" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
